@@ -13,13 +13,13 @@
             "url": ""
         },
         "developerAttribution-CHANGETHIS": {
-            "text": "Your organisation",
-            "link": "http://www.example.com"
+            "text": "USC",
+            "link": "http://www.usc.edu"
         },
-        "appName": "Terria Map Static",
+        "appName": "Madhav's Terria Map Static",
         "supportEmail-CHANGETHIS": "help@example.com",
         "brandBarElements": [
-            "  ",
+            "",
             "<a target=\"_blank\" href=\"http://www.nicta.com.au\"><img src=\"images/terria_logo.png\" height=\"52\" title=\"Version: {{version}}\" /></a>",
             ""
         ],
